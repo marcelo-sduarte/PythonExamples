@@ -1,0 +1,37 @@
+print(sentence.upper()) * todas em maiuscula
+print(sentence.lower()) * todas em minuscula
+print(sentence.capitalize())* primeira em maiuscula
+print(sentence.count('a')) * conta total letra a
+
+-----------------------------------------------------------------
+MATH
+ Simbol | Operation                 | Example  | result
+     +  | Addition                  | 3+4      | 7
+     -  | Subtraction               | 3-4      | -1
+     *  | Multiply                  | 3*4      | 12
+     /  | Division                  | 15/4     | 3.75
+     ** | Exponent                  | 3**4     | 81
+     // | Divide and drop remainder | 15//4    | 3
+     %  | Remainder or Modulos      | 25 % 7   | 4
+   
+---------------------------------------------------------------------
+Using string and number
+print(str(days) + ' febrary') # to use STR to join string and number
+
+Using number like integer (1,2,3,4,5...)
+print(int(var))
+
+Using number like float (1.5, 4.6, 5.6...)
+pritn(float(var))
+-----------------------------------------------------------------
+
+conditions
+
+> Greater than
+< Less than
+>= Greater than or equal to
+<= Less than or equal to
+== is equal to
+!= is not equal to
+
+
